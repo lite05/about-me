@@ -3,7 +3,7 @@
 ### Willkommen zu meiner **Top-5 Anime Liste:**
 
 1. Attack on Titan
-    -AoT handelt von dem jungen Eren yaeger der in innerhalb der Mauern der Stadt Shiganshina lebt, als diese eines Tages von Titanen angegriffen wird und Erens Mutter auf tragische Weise stirbt.
+    * AoT handelt von dem jungen Eren yaeger der in innerhalb der Mauern der Stadt Shiganshina lebt, als diese eines Tages von Titanen angegriffen wird und Erens Mutter auf tragische Weise stirbt.
 2. Naruto
     * [Naruto Opening 1](https://youtu.be/4t__wczfpRI?si=L61Dajy9W05opIar "External Link")
 3. Evangelion
